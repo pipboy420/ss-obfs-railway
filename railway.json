@@ -1,0 +1,10 @@
+{
+    "build": {
+      "env": {
+        "PASSWORD": "your_password",
+        "METHOD": "aes-256-gcm",
+        "OBFS": "tls",
+        "OBFS_HOST": "www.bing.com"
+      }
+    }
+  }
